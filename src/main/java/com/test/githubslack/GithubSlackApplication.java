@@ -8,6 +8,7 @@ public class GithubSlackApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GithubSlackApplication.class, args);
+        System.out.println("Test");
     }
 
 }
